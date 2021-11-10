@@ -1,0 +1,3 @@
+body { min-height: 100vh } /* force site to have at least full-screen size */
+
+button { @apply focus:outline-none } /* many buttons its only semantic without tab index ect. */
